@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(90deg, #9288ec, #b3f2fd);
+    background: linear-gradient(90deg, #0A4C8A, #1E90FF);
 }
 .container{
     position: relative;
@@ -97,7 +97,7 @@ form{
 .btn{
     width: 100%;
     height: 48px;
-    background: #9288ec;
+    background: #1E90FF;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: none;
@@ -130,7 +130,7 @@ form{
     left: -250%;
     width: 300%;
     height: 100%;
-    background: #9288ec;
+    background: #1E90FF;
     border-radius: 150px;
     z-index: 2;
     transition: 1.8s ease-in-out;
@@ -175,4 +175,5 @@ form{
     background: transparent;
     border: 2px solid #fff;
     box-shadow: none;
+
 }
